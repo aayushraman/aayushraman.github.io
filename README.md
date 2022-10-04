@@ -1,3 +1,5 @@
-## HELLO WORLD
+## HELLO WORLD!
 
-URL: https://araman.rbind.io/
+Url: [www](https://araman.rbind.io/)
+
+Email: [GMail](aayushraman09@gmail.com) [BROAD](araman@broadinstitute.org)
