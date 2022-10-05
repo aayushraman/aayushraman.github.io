@@ -1,6 +1,6 @@
 # Ayush T Raman
 
-Email | aayushraman09@gmail.com
+URL | [www](araman.rbind.io)
 
 Google Scholar | [IaLzKOIAAAAJ](https://scholar.google.com/citations?user=IaLzKOIAAAAJ&hl=en&oi=ao)
 
